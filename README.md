@@ -1,6 +1,7 @@
 # Lacuna-Masakhane-Parts-of-Speech-Classification-Challenge
 
-Description:
+#Description:
+
 Part-of-speech (POS) tagging is a crucial step in natural language processing (NLP), as it allows algorithms to understand the grammatical structure and meaning of a text. This is especially important in creating the building blocks for preparing low-resource African languages for NLP tasks. The MaseakhaPOS dataset for 20 typologically diverse African languages, including benchmarks, was created with the help of Lacuna Fund to try and address this problem.
 
 The objective of this challenge is to create a machine learning solution that correctly classifies 14 parts of speech for the unrelated Luo and Setswana languages. You will need to build one solution that applies to both languages, not two solutions, one for each language.
@@ -11,7 +12,8 @@ This challenge is also important for Lacuna Fund, to help reach their goals of m
 
 Masakhane roughly translates to “We build together” in isiZulu. Our goal is for Africans to shape and own these technological advances towards human dignity, well-being and equity, through inclusive community building, open participatory research and multidisciplinary.
 
-About the Datasets:
+#About the Datasets:
+
 The training set of 19 languages is available at this repo: https://github.com/masakhane-io/masakhane-pos
 
 Use this starter notebook to get started: https://github.com/masakhane-io/masakhane-pos/blob/main/train_pos.ipynb
